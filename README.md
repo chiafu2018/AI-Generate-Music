@@ -4,8 +4,6 @@ I use 3 different kind of neural network to generate piano music and compare the
 For songs in Output Data, I trained and generated them in my own computer.  
 Welcome and happy to use these codes and dataset to generate music on your own !!  
 
-More INFO:   
-
 My environment:  
 Windows 11  
 Create environments in Anaconda  
