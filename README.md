@@ -11,8 +11,8 @@ fluidsynth 2.2.4
 
 You can check this websites for details: https://reurl.cc/Eopo2k
   
-If you want to download youtube music online, you should pay attention for the following details !!  
-Some libraries you need to pay attention:  
+If you want to download youtube music online, you should pay attention to the following details!!  
+Some libraries details you need to notice:  
 pip install youtube2midi  
 pip uninstall youtube-dl    #The latest version can't be used !!  
 pip install youtube-dl==2020.12.9   #Please download this version !!  
