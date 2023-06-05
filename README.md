@@ -1,6 +1,6 @@
 # AI_generate_music
 I use 3 different kind of neural network to generate piano music and compare their differences
-My environment:
+My environment:\n
 Windows 11
 Create environments in Anaconda
 Python 3.8.16
