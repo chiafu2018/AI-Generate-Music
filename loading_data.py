@@ -38,7 +38,7 @@ composer_list=[
     ('Albeniz',1),('Beethoven',2),('Borodin',3),('Brahms',4),('Burgmueller',5),
     ('Chopin',6),('Debussy',7),('Grieg',8),('Haydn',9),
     ('Liszt',10),('Mendelssohn',11),('Mozart',12),('Mussorgsky',13),
-    ('Schubert',14),('Schumann',15),('Tchaikovsky',16)
+    ('Schubert',14),('Schumann',15),('Tchaikovsky',16),('Hip Hop Beats',17)
 ]
 
 #Getting midi files
